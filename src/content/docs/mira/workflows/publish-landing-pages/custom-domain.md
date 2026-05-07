@@ -16,7 +16,7 @@ This guide shows how to point a custom domain at your tenant so published pages 
 1. Open **Settings → Domains**.
 2. Click **Add domain**.
 3. Enter the subdomain (e.g. `gtm.yourcompany.com`).
-4. Mira shows a CNAME target like `<your-tenant>.cname.mira.app`. Note it.
+4. Mira shows a CNAME target like `<your-tenant>.cname.mira.hereai.ai`. Note it.
 5. In your DNS provider, add a CNAME record:
    - **Host**: `gtm` (or whatever subdomain you picked)
    - **Type**: `CNAME`

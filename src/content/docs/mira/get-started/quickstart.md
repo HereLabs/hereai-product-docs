@@ -23,7 +23,7 @@ By the end you'll have one product fully live: a published page, a captured lead
 
 ## 1. Sign in
 
-Open your tenant subdomain (e.g. `yourtenant.mira.app`) and sign in. If your team uses [SSO](/mira/integrations/sso/), you'll be redirected to your IdP and back.
+Open your tenant subdomain (e.g. `yourtenant.mira.hereai.ai`) and sign in. If your team uses [SSO](/mira/integrations/sso/), you'll be redirected to your IdP and back.
 
 After sign-in, you'll land in an empty workspace with an onboarding checklist on the right.
 
@@ -92,7 +92,7 @@ Click **Publish** on the product.
 4. Click **Preview**. The page renders inside an iframe; verify it reads correctly.
 5. Click **Publish**.
 
-Within seconds the page is live at `<your-tenant>.mira.app/products/sample-product`. Copy the URL.
+Within seconds the page is live at `<your-tenant>.mira.hereai.ai/products/sample-product`. Copy the URL.
 
 The published page is pinned to the **frozen approved versions** of each section. If you edit a section now, that edit creates a new draft — the live page won't change until you re-approve and republish.
 
@@ -145,7 +145,7 @@ Now wire the routing destination.
      "product": {
        "catalog_entry_id": "…",
        "name": "Sample Product",
-       "page_url": "https://yourtenant.mira.app/products/sample-product",
+       "page_url": "https://yourtenant.mira.hereai.ai/products/sample-product",
        "captured_positioning": "…"
      },
      "captured_at": "2026-05-06T12:34:56Z"

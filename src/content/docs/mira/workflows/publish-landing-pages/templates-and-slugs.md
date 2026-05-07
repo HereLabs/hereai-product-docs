@@ -39,7 +39,7 @@ You can swap templates without rewriting content — the kit's sections drop int
 
 ## Verify
 
-- The published URL is `<your-tenant>.mira.app/products/<slug>` (or your [custom domain](/mira/workflows/publish-landing-pages/custom-domain/)).
+- The published URL is `<your-tenant>.mira.hereai.ai/products/<slug>` (or your [custom domain](/mira/workflows/publish-landing-pages/custom-domain/)).
 - The page reflects the approved sections.
 
 ## Related
