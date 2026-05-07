@@ -17,7 +17,7 @@ When you publish:
 
 ## Capabilities
 
-- **Per-tenant subdomain** with configurable slugs (e.g. `yourtenant.mira.app/products/<slug>`)
+- **Per-tenant subdomain** with configurable slugs (e.g. `yourtenant.mira.hereai.ai/products/<slug>`)
 - **Multiple page templates** — long-form, short-form, comparison
 - **Custom CSS per tenant** for brand match
 - **Custom domain (CNAME)** with TLS managed by Mira

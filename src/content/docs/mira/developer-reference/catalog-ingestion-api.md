@@ -16,7 +16,7 @@ Mint tokens in **Settings → API tokens** with scope `catalog:write`. Tokens ar
 ## Endpoint
 
 ```
-POST https://api.mira.app/v1/catalog/imports
+POST https://mira-api.hereai.ai/v1/catalog/imports
 Content-Type: application/json
 ```
 
@@ -93,7 +93,7 @@ Re-POSTing identical entries is a no-op for unchanged rows. The hash detection i
 ## Example
 
 ```bash
-curl -X POST https://api.mira.app/v1/catalog/imports \
+curl -X POST https://mira-api.hereai.ai/v1/catalog/imports \
   -H "Authorization: Bearer $MIRA_TOKEN" \
   -H "Content-Type: application/json" \
   -d @entries.json
@@ -104,7 +104,7 @@ curl -X POST https://api.mira.app/v1/catalog/imports \
 Check **Imports** in the workspace, or fetch the import record:
 
 ```bash
-curl https://api.mira.app/v1/catalog/imports/imp_… \
+curl https://mira-api.hereai.ai/v1/catalog/imports/imp_… \
   -H "Authorization: Bearer $MIRA_TOKEN"
 ```
 

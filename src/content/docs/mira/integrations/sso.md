@@ -25,7 +25,7 @@ Mira supports SSO via Google or Microsoft using OIDC. After SSO is configured, y
 1. In Google Cloud Console, open **APIs & Services → Credentials**.
 2. Click **Create Credentials → OAuth client ID**.
 3. Application type: **Web application**.
-4. Authorized redirect URI: copy from Mira's **Integrations → SSO → Google** page (it looks like `https://yourtenant.mira.app/auth/sso/google/callback`).
+4. Authorized redirect URI: copy from Mira's **Integrations → SSO → Google** page (it looks like `https://yourtenant.mira.hereai.ai/auth/sso/google/callback`).
 5. Save. Note the **Client ID** and **Client secret**.
 
 ### Mira-side setup

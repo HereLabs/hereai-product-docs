@@ -9,9 +9,9 @@ How to reach Mira support, expected response times by plan, and what to do durin
 
 | Channel | What for |
 | --- | --- |
-| **Email** — `support@mira.app` | Most things; tickets are the canonical record |
+| **Email** — `support@mira.hereai.ai` | Most things; tickets are the canonical record |
 | **Shared Slack** (Enterprise) | Real-time questions and incident triage |
-| **Status page** — `status.mira.app` | Real-time service status, incident timeline, scheduled maintenance |
+| **Status page** — `status.mira.hereai.ai` | Real-time service status, incident timeline, scheduled maintenance |
 | **In-app help** | Quick self-serve docs lookup; opens a ticket if it doesn't resolve |
 
 For security incidents, prefer email so the response chain is documented from minute zero.
@@ -52,7 +52,7 @@ File feature requests via support email; tracked in the `mira-roadmap` project. 
 
 ## Documentation feedback
 
-Spotted a doc bug? Email `docs@mira.app` with the URL and the issue. Most fixes ship the same day.
+Spotted a doc bug? Email `docs@mira.hereai.ai` with the URL and the issue. Most fixes ship the same day.
 
 ## Related
 

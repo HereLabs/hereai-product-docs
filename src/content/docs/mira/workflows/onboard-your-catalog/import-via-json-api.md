@@ -9,7 +9,7 @@ This guide shows how to import a catalog programmatically via the JSON API. Use 
 
 - Admin role on your tenant (required to mint API tokens)
 - An API token from **Settings → API tokens**
-- Your tenant's API base URL, e.g. `https://api.mira.app`
+- Your tenant's API base URL, e.g. `https://mira-api.hereai.ai`
 
 ## Steps
 
@@ -34,7 +34,7 @@ This guide shows how to import a catalog programmatically via the JSON API. Use 
 3. POST to `/v1/catalog/imports`:
 
    ```bash
-   curl -X POST https://api.mira.app/v1/catalog/imports \
+   curl -X POST https://mira-api.hereai.ai/v1/catalog/imports \
      -H "Authorization: Bearer $MIRA_TOKEN" \
      -H "Content-Type: application/json" \
      -d @entries.json

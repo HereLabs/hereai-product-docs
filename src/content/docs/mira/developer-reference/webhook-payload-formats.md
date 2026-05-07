@@ -55,7 +55,7 @@ Fired when a visitor submits a form on a published landing page.
     "name": "Compliance Logs",
     "page_url": "https://gtm.acme.com/products/compliance-logs",
     "captured_positioning": "Audit-ready logging for SOC 2 …",
-    "workspace_url": "https://yourtenant.mira.app/workspace/products/ce_…"
+    "workspace_url": "https://yourtenant.mira.hereai.ai/workspace/products/ce_…"
   },
   "delivery": {
     "routing_event_id": "re_…",

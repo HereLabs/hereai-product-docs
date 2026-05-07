@@ -23,7 +23,7 @@ SCIM provisioning automates user lifecycle for enterprise tenants. Users and gro
 
 1. In Mira, open **Integrations → SCIM → Configure**.
 2. Mira generates a **base URL** and a **bearer token**:
-   - Base URL: `https://yourtenant.mira.app/scim/v2`
+   - Base URL: `https://yourtenant.mira.hereai.ai/scim/v2`
    - Token: shown once; copy and store securely
 3. In your IdP, create a SCIM provisioning configuration with the base URL and bearer token.
 4. Map your IdP users + groups to Mira's expected attributes (see Attribute mapping).
