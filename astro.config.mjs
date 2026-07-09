@@ -193,6 +193,15 @@ themeObserver.observe(document.documentElement, { attributes: true, attributeFil
               ],
             },
             {
+              label: 'Legal & compliance',
+              items: [
+                { label: 'Overview', link: '/mira/legal/' },
+                { label: 'Privacy Policy', link: '/mira/legal/privacy-policy/' },
+                { label: 'Terms of Service', link: '/mira/legal/terms-of-service/' },
+                { label: 'Data deletion instructions', link: '/mira/legal/data-deletion/' },
+              ],
+            },
+            {
               label: 'Developer reference',
               items: [
                 { label: 'Overview', link: '/mira/developer-reference/' },
