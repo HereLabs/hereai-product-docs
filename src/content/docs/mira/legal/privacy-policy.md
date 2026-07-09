@@ -101,7 +101,7 @@ After verification, we delete or anonymize personal data where we are able and l
 
 Mira uses technical and organizational controls to protect customer data, including encryption in transit and at rest, tenant isolation, role-based access controls, audit logging, and secret storage for credentials. See [Security & trust](/mira/security/) for more detail.
 
-No service can guarantee absolute security. If you believe data in Mira may have been accessed without authorization, contact **security@hereai.com**.
+No service can guarantee absolute security. If you believe data in Mira may have been accessed without authorization, contact **security@hereai.ai**.
 
 ## International transfers
 
@@ -125,12 +125,12 @@ We may update this Privacy Policy from time to time. We will update the "Last up
 
 Privacy requests:
 
-**privacy@hereai.com**
+**privacy@hereai.ai**
 
 Security reports:
 
-**security@hereai.com**
+**security@hereai.ai**
 
 Support:
 
-**support@hereai.com**
+**support@hereai.ai**
