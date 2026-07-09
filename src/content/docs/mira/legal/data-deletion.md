@@ -9,7 +9,7 @@ This page explains how to request deletion of personal data and Instagram-connec
 
 ## How to request deletion
 
-Email **privacy@hereai.com** with the subject line **Data deletion request**.
+Email **privacy@hereai.ai** with the subject line **Data deletion request**.
 
 Include enough information for us to locate and verify the relevant account:
 
@@ -75,4 +75,4 @@ When we receive a verified request, we will respond by email with the current st
 
 Deletion requests and privacy questions:
 
-**privacy@hereai.com**
+**privacy@hereai.ai**

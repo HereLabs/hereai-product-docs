@@ -108,12 +108,12 @@ HereAI may update these terms from time to time. The "Last updated" date will be
 
 Questions about these terms:
 
-**legal@hereai.com**
+**legal@hereai.ai**
 
 Privacy requests:
 
-**privacy@hereai.com**
+**privacy@hereai.ai**
 
 Support:
 
-**support@hereai.com**
+**support@hereai.ai**
